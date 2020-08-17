@@ -1,3 +1,4 @@
+var xiaokang = new xkTool(param1,param2);
 // 设置随机背景的图片
 xiaokang.imgList = [
     "https://s-gz-1643-blog.oss.dogecdn.com/imgcdn/1.webp",
